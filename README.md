@@ -1,4 +1,4 @@
-# setup-algokit-on-gitpod
+# Setup Algokit on gitpod
 Algokit setup tutorial on gitpod and preview on simple browser
 
 # keuntungan menggunakan Algokit di Gitpod
