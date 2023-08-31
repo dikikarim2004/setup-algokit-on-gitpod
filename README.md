@@ -14,4 +14,4 @@ Penggunaan Algokit pada Gitpod dapat memberikan beberapa manfaat, antara lain:
 3. Kontrol Versi: Gitpod terintegrasi dengan Git, sistem kontrol versi yang populer, memungkinkan Anda mengelola perubahan pada strategi perdagangan Anda dan berkolaborasi
    dengan pengembang lain secara lebih efektif.
 
-Secara keseluruhan, menggunakan Algokit di Gitpod dapat merampingkan proses pengembangan strategi perdagangan algoritmik, sehingga memudahkan untuk berkolaborasi, mengotomatiskan, dan mengoptimalkan strategi Anda.
+Secara keseluruhan, menggunakan Algokit di Gitpod dapat merampingkan proses pengembangan algorand, sehingga memudahkan untuk berkolaborasi, mengotomatiskan, dan mengoptimalkan.
